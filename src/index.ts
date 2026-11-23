@@ -1,5 +1,5 @@
 function sapa(): void {
-  console.log("Halo! Sistem Booking Lapangan Futsal siap dikembangkan.");
+  console.log("Halooooo! Sistem sewa motor moge siap dikembangkan.");
 }
 
 sapa();
